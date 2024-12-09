@@ -1,0 +1,12 @@
+/** FIELD MAX LENGTH */
+
+export const EMAIL_FIELD_MAX_LENGTH = 320;
+export const NORMAL_STRING_FIELD_MAX_LENGTH = 255;
+export const DESCRIPTION_STRING_MAX_LENGTH = 624;
+export const PASSWORD_FIELD_MAX_LENGTH = 16;
+
+/** JWT */
+export const JWT_SECRET = 'defaultSecret';
+
+/** MONGO ERROR CODES */
+export const MONGO_DUPLICATE_ERROR_CODE = 11000;
